@@ -3,7 +3,7 @@
 ---
 
 ### ScreenShot
-<img src="https://drive.google.com/uc?id=1sx6rWxKlh0o18JOYKVCL63K8Chi2dVM5" width="200" height="350" alt="Neu Morphic Design on Simulator, Swift 4.2">
+<img src="./contents/neuMorphism.png" width="200" height="350" alt="Neu Morphic Design on Simulator, Swift 4.2">
 
 ---
 
