@@ -31,11 +31,19 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="by Yasin Shamrat" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Wg-l4-BHV">
+                                                <rect key="frame" x="82.5" y="89.5" width="75" height="11"/>
+                                                <fontDescription key="fontDescription" type="system" weight="ultraLight" pointSize="9"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
                                         </subviews>
                                         <color key="backgroundColor" name="bgColor"/>
                                         <constraints>
+                                            <constraint firstItem="9Wg-l4-BHV" firstAttribute="centerX" secondItem="j7Q-Ay-5Rc" secondAttribute="centerX" id="08i-Kv-dAU"/>
                                             <constraint firstItem="M4I-jo-vEl" firstAttribute="centerY" secondItem="j7Q-Ay-5Rc" secondAttribute="centerY" id="Ayi-Gi-Gc3"/>
                                             <constraint firstItem="M4I-jo-vEl" firstAttribute="centerX" secondItem="j7Q-Ay-5Rc" secondAttribute="centerX" id="LrK-5Z-DEB"/>
+                                            <constraint firstItem="9Wg-l4-BHV" firstAttribute="top" secondItem="M4I-jo-vEl" secondAttribute="bottom" id="wkC-rp-rKs"/>
                                         </constraints>
                                     </view>
                                 </subviews>
