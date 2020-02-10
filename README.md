@@ -9,8 +9,8 @@
 
 ### Key Principle of Neu Morphism
   1. Using same color of UIView and Main View.
-  2. Light color (preferably white) on left and top side of UIView.
-  3. Dark color (preferably black) on right and bottom side of UIView.
+  2. Light color as Shadow (preferably white) on left and top side of UIView.
+  3. Dark color as Shadow (preferably black) on right and bottom side of UIView.
   
 #### Code Snippet
 
